@@ -13,10 +13,9 @@ Many people often need to know the total length of playlists to manage their tim
 - Provides detailed information about the playlist, including title, number of videos, average video length, and total length at various playback speeds.
 
 ## Response
+![playlistcalculator](https://github.com/user-attachments/assets/001871c1-cc86-41af-9344-65de6f5ea70c)
 
 ```json
-GET /Playlist?playlistUrl=EXAMPLE
-
 {
   "title": "C# Fundamentals",
   "numberOfVideos": 59,
